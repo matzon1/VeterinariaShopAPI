@@ -7,3 +7,4 @@
  La API va a ser visualizada en https://localhost:7266/
  
  
+ Se utilizó Entity Framework, SQLITE y un inicio de estructura en base a patron repository, escalable a MVC
